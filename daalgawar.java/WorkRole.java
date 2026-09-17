@@ -1,0 +1,3 @@
+interface WorkRole {
+    String performTask();
+}
